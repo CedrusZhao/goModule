@@ -1,4 +1,4 @@
-package MyFirst
+package GoModule
 
 import "fmt"
 

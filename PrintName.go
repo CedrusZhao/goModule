@@ -3,7 +3,7 @@ package myFirst
 import "fmt"
 
 func MyName() {
-	fmt.Print("zhao")
+	fmt.Print("zhaos")
 }
 
 type people1 struct {

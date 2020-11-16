@@ -1,3 +1,3 @@
-module github.com/CedrusZhao/goModule/v2
+module github.com/CedrusZhao/goModule/v3
 
 go 1.13

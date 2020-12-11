@@ -10,6 +10,7 @@ type people1 struct {
 	name string
 	age  int
 }
+var Allnum=2
 
 type People2 struct {
 	name string
